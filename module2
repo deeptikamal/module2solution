@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="./quote.css">
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>Three famous quotes about our universe.</h1>
+   
+</div>
+
+
+    <div class="container">
+       <div class="row">
+         <div class="col-md-4 col-sm-4 " id="quote1">
+           <h3>Column 1</h3>
+              <div>“Compassion hurts. When you feel connected to everything, you also feel responsible for everything. And you cannot turn away. Your destiny is bound with the destinies of others. You must either learn to carry the Universe or be crushed by it. You must grow strong enough to love the world, yet empty enough to sit down at the same table with its worst horrors.”
+              ― Andrew Boyd, Daily Afflictions: The Agony of Being Connected to Everything in the Universe</div>
+         </div>
+         <div class="col-md-4 col-sm-4 " id="quote2">
+           <h3>Column 2</h3>
+              <div>“Two possibilities exist: either we are alone in the  Universe or we are not. Both are equally terrifying.”
+              ― Arthur C. Clarke</div>
+         </div>
+         <div class="col-md-4 col-sm-6 col-xs-9 " id="quote3">
+         <h3>Column 3</h3>        
+              <div>“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”
+              ― Albert Einstein
+              </div>
+      
+         </div>
+       </div> 
+    </div>
+
+
+</body>
+</html>
